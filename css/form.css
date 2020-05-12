@@ -1,0 +1,50 @@
+.bg-form {
+  margin-top: -150px;
+  background-color: #16304f;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.form {
+  margin: auto;
+  width: 50%;
+}
+.input-form {
+  padding: 20px;
+  margin: 0.75%;
+  width: 42%;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.8);
+}
+.text-area {
+  border-radius: 20px;
+  padding: 20px;
+  margin: 5px;
+  width: 91%;
+  background: rgba(255, 255, 255, 0.8);
+}
+.form-title {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.btn-submit {
+  padding: 20px;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: 800;
+  color: #0099ff;
+  width: 92%;
+}
+.btn-submit:hover {
+  color: #0383d8;
+  background-color: whitesmoke;
+  cursor: pointer;
+}
+.parrafo {
+  margin-top: -50px;
+  color: #c79800;
+  font-size: 50px;
+  line-height: 50px;
+  width: 50vw;
+  padding: 75px;
+}

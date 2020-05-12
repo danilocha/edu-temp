@@ -1,0 +1,28 @@
+@media (max-width: 1400px) {
+  .navbar {
+    width: 98.6vw;
+  }
+  #slideshowu1285 {
+    margin-left: 10% !important;
+  }
+
+  #u1298_img,
+  #u1450_img,
+  #u1481_img,
+  #u1512_img,
+  #u1543_img {
+    margin: -12px 45px -12px -30px !important;
+  }
+  #u3080 {
+    height: 240px !important;
+  }
+  #u923 {
+    margin-top: -80px;
+  }
+  .input-form {
+    width: 40%;
+  }
+  .bg-form {
+    margin-top: -100px;
+  }
+}
