@@ -456,13 +456,13 @@ body {
     position: relative;
     margin-right: -10000px;
     margin-top: 1819px;
-    width: 40.22%;
-    left: 53.47%;
+    width: 20.22%;
+    left: 65.47%;
     margin-left: 0%;
   }
   #u1132-4 {
     margin-right: -10000px;
-    margin-top: 2029px;
+    margin-top: 1960px;
     width: 40.95%;
     left: 6.8%;
     margin-left: 0%;
@@ -479,7 +479,7 @@ body {
     width: 100%;
   }
   #u1310-4popup {
-    margin-top: 170px;
+    margin-top: 100px;
     height: 77px;
     width: 7.2%;
   }
@@ -501,15 +501,19 @@ body {
   #u1543 {
     width: 891px;
     height: 376px;
+    text-align: center;
   }
   #u1298_img,
   #u1450_img,
   #u1481_img,
   #u1512_img,
   #u1543_img {
-    margin: -12px 45px -12px 46px;
+    margin-left: 10%;
+    width: 70%;
+    height: 70%;
   }
   #u1292-4 {
+    margin-top: -100%;
     min-height: 58px;
     background-image: url("../images/circulo.png?crc=4058309779");
     width: 100%;
@@ -525,8 +529,9 @@ body {
     margin-right: 11.836070424619013%;
   }
   #u3068 {
-    padding-bottom: 48px;
-    margin-top: 11px;
+    padding-bottom: 100px;
+    margin-top: -5%;
+
     width: 100%;
     left: 0%;
     margin-left: 0%;
@@ -725,7 +730,7 @@ body {
     margin-top: 117px;
     margin-left: 81.04%;
     left: -570px;
-    top: 50px;
+    top: 200px;
   }
   #u679-11 {
     margin-right: -10000px;
@@ -736,7 +741,7 @@ body {
   }
   #u950-10 {
     margin-right: -10000px;
-    margin-top: 1517px;
+    margin-top: 1417px;
     width: 33.31%;
     left: 7.09%;
     margin-left: 0%;
@@ -747,7 +752,6 @@ body {
     margin-right: -10000px;
     margin-top: 1314px;
     margin-left: 44.03%;
-    top: 100px;
   }
   #u1060 {
     height: 298px;
@@ -763,7 +767,7 @@ body {
     width: 36.03%;
     left: 6.02%;
     margin: 2029px -10000px -1px 0%;
-    top: 40px;
+    top: -80px;
   }
   #slideshowu1285 {
     margin-top: 12px;
@@ -811,7 +815,9 @@ body {
   #u1481_img,
   #u1512_img,
   #u1543_img {
-    margin: -12px 45px -12px 46px;
+    margin-top: 5%;
+    width: 80%;
+    height: 80%;
   }
   #u1292-4 {
     min-height: 62px;
@@ -830,7 +836,7 @@ body {
   }
   #u3068 {
     padding-bottom: 100px;
-    margin-top: 11px;
+    margin-top: -10%;
     width: 88.05%;
     left: 0%;
     margin-left: 0%;
@@ -911,7 +917,7 @@ body {
     height: 887px;
     position: relative;
     width: 100%;
-    margin-top: -260px;
+    margin-top: -360px;
   }
   #u135 {
     min-height: 91px;

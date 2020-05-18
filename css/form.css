@@ -48,3 +48,26 @@
   width: 50vw;
   padding: 75px;
 }
+.neurona {
+  width: 100px;
+}
+.img-izq {
+  width: 50%;
+  margin: 50px;
+  margin-top: 70px;
+}
+.img-der {
+  width: 50%;
+  margin: 50px;
+}
+.contenedor-neuro {
+  display: flex;
+  padding: 5%;
+  color: white;
+  font-size: 35px;
+  line-height: 35px;
+  text-align: center;
+}
+.naranja {
+  color: #c79800;
+}
