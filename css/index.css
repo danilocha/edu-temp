@@ -2,6 +2,11 @@
   color: #000015;
   background-color: #d5f802;
 }
+.neuronapng {
+  position: absolute;
+  right: 20px;
+  bottom: 200px;
+}
 .js body {
   visibility: hidden;
 }
@@ -940,6 +945,20 @@ body {
   }
 }
 @media (min-width: 601px) and (max-width: 960px) {
+  .texto-neuro {
+    width: 100%;
+    margin-left: 0px;
+    text-align: center;
+    margin-top: 50px;
+    color: #ffee00;
+    font-weight: 800;
+  }
+  .neuronapng {
+    position: relative !important;
+    z-index: 100000 !important;
+    left: 86%;
+    top: 970px;
+  }
   .input-form {
     padding: 20px;
     margin: 0.75%;
@@ -1249,6 +1268,18 @@ body {
   }
 }
 @media (max-width: 600px) {
+  .texto-neuro {
+    width: 90vw;
+    margin-left: 0px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 20px;
+    color: #ffee00;
+    font-weight: 800;
+  }
+  .neuronapng {
+    bottom: 380px;
+  }
   .navbar {
     width: 100vw;
     margin-left: -5px;

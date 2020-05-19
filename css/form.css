@@ -71,3 +71,13 @@
 .naranja {
   color: #c79800;
 }
+.texto-neuro {
+  font-size: 45px;
+  line-height: 35px;
+  width: 400px;
+  margin-left: 200px;
+  text-align: center;
+  margin-top: 150px;
+  color: #ffee00;
+  font-weight: 800;
+}
